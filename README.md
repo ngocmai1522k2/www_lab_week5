@@ -53,9 +53,9 @@ git clone [https://github.com/ngocmai1522k2/www_lab_week5.git](https://github.co
    ### Database script:
    ```
      -- Dumping database structure for works
-      CREATE DATABASE IF NOT EXISTS `lab5` /*!40100 DEFAULT CHARACTER SET latin1
+      CREATE DATABASE IF NOT EXISTS `works` /*!40100 DEFAULT CHARACTER SET latin1
       COLLATE latin1_swedish_ci */;
-      USE `lab5`;
+      USE `works`;
       -- Dumping structure for table works.address
       CREATE TABLE IF NOT EXISTS `address` (
       `id` bigint(20) NOT NULL AUTO_INCREMENT,
@@ -145,6 +145,7 @@ git clone [https://github.com/ngocmai1522k2/www_lab_week5.git](https://github.co
       `type` tinyint(4) DEFAULT NULL CHECK (`type` between 0 and 2),
       PRIMARY KEY (`skill_id`)) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
    ```
+![image](https://github.com/ngocmai1522k2/www_lab_week5/assets/144517477/285f1223-e045-4f06-8e58-4eca94481a2a)
 
 6. **Cấu trúc project:**
   - **models:** Package chứa các lớp mô hình (entities) của cơ sở dữ liệu.
