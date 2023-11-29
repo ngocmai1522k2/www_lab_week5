@@ -158,10 +158,26 @@ git clone [https://github.com/ngocmai1522k2/www_lab_week5.git](https://github.co
     + JobSkill.java: Đại diện cho kỹ năng yêu cầu của công việc.
     + Skill.java: Đại diện cho thông tin kỹ năng.
 
-
+ - **dao:** Bao gồm các DAO (Data Access Object) chứa các phương thức để truy cập và thao tác dữ liệu trong cơ sở dữ liệu.
+    + CandidateDao: chứa các hàm logIn, getCandByYearBorn, getTotalSkillByCand, getTotalJobSkillByCand.
+    + CandidateSkillDao: chứa các hàm getJobForCandidateOrderBySkill, getSkillNotHaveToLearn, getCandidateOrderBySkill.
+    + CompanyDao: chứa hàm logIn.
+    + ExperienceDao: chứa các hàm getMaxExpYearCandidate, getNotHaveExpCandidate.
+    + JobDao: chứa các hàm getAllJobList, getAll.
+    + JobSkillDao: chứa các hàm addJobSkill, calcProposedSalary.
 7. **Chạy ứng dụng:**
 
-## Cách sử dụng
+![image](https://github.com/ngocmai1522k2/www_lab_week5/assets/144517477/4f3424a2-ef8b-40ef-a05f-3dbec5f223af)
+![image](https://github.com/ngocmai1522k2/www_lab_week5/assets/144517477/096ef70a-454d-4609-be8e-83d22b4513f9)
+![image](https://github.com/ngocmai1522k2/www_lab_week5/assets/144517477/39522272-888b-4cd9-87aa-8b648d403970)
+![image](https://github.com/ngocmai1522k2/www_lab_week5/assets/144517477/8a312173-06b2-4fc8-acff-10db8efeaa2e)
+![image](https://github.com/ngocmai1522k2/www_lab_week5/assets/144517477/90351578-5afb-4545-89fe-cc4c0b5e98c7)
+![image](https://github.com/ngocmai1522k2/www_lab_week5/assets/144517477/2084f985-9dbc-44d9-879b-31c9e01a4a01)
+![image](https://github.com/ngocmai1522k2/www_lab_week5/assets/144517477/87883ce0-0416-4684-9f5a-dd3fdcc84e37)
+![image](https://github.com/ngocmai1522k2/www_lab_week5/assets/144517477/c773ba45-bf2e-408b-b27a-df5f54756457)
+
+
+
 
 ## Tài liệu liên quan
 
