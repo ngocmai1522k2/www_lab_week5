@@ -191,9 +191,9 @@ git clone [https://github.com/ngocmai1522k2/www_lab_week5.git](https://github.co
 
 Nếu bạn muốn đóng góp vào dự án hoặc báo cáo lỗi, vui lòng tạo issue hoặc gửi pull request vào repository GitHub của dự án.
 
-- GitHub Repository: [www_lab_week1](https://github.com/ngocmai1522k2/www_lab_week1)
-- Tạo issue mới: [Tạo issue](https://github.com/ngocmai1522k2/www_lab_week1/issues/new)
-- Gửi pull request: [Gửi pull request](https://github.com/ngocmai1522k2/www_lab_week1/compare)
+- GitHub Repository: [www_lab_week5](https://github.com/ngocmai1522k2/www_lab_week5)
+- Tạo issue mới: [Tạo issue](https://github.com/ngocmai1522k2/www_lab_week5/issues/new)
+- Gửi pull request: [Gửi pull request](https://github.com/ngocmai1522k2/www_lab_week5/compare)
 
 Chúng tôi rất hoan nghênh mọi đóng góp từ cộng đồng!
 
